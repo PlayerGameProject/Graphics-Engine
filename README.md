@@ -1,4 +1,4 @@
 <div align="center">
   <h1> Graphics Engine </h1>
-  <h2> Graphics Engine made in C++ </h2>
+  <img alt="GitHub License" src="https://img.shields.io/github/license/PlayerGameProject/Graphics-Engine">
 </div>
